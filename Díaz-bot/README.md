@@ -1,1 +1,1 @@
-O P T I M U S       B O T
+ D I A Z       B O T
