@@ -4,20 +4,20 @@ const handler = async (m, {conn}) => {
 handler.command = /^(Reglas)$/i;
 export default handler;
 global.Reglas = `
-*〔 DRAGON BOT 〕*
+*〔 DIAZ BOT 〕*
 
 *REGLAS DEL BOT AL MOMENTO DE COMPRAR*
 
 *━━━━━━━━━━━━━⬣*
-*Si Eres De Otro Pais Que No Sea Peru Al Momento De Hacer El Pago Usted Tendria Que Esperar A Que El Dinero Llegue A Mis Manos 🐉*
+*Si Eres De Otro Pais Que No Sea Colombia Al Momento De Hacer El Pago Usted Tendria Que Esperar A Que El Dinero Llegue A Mis Manos 🥷🏻*
 *━━━━━━━━━━━━━⬣*
-*Ojo Para Mayor Confianza Al Momento De Usted Hacer El Pago Yo Lo Estaria Agregando A Mis Contactos Y A Mi Grupo Oficial 🐉*
+*Ojo Para Mayor Confianza Al Momento De Usted Hacer El Pago Yo Lo Estaria Agregando A Mis Contactos Y A Mi Grupo Oficial 🥷🏻*
 *━━━━━━━━━━━━━⬣*
-Contacto: @cristhofer_yallico
-Wpp: +51 926 933 818
+Contacto: @whoisdiax.d
+Wpp: +57 323 423 1940
 Metodo de Pago:
 ✔️Paypal
-✔️Transferencia y Deposito (En todo 🇵🇪)
-✔️Yape
+✔️Transferencia y Deposito (En todo 🇨🇴)
+✔️Nequi
 *━━━━━━━━━━━━━⬣*
 `;
