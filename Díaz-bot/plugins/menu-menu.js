@@ -89,7 +89,7 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 *╭━〔 DIAZ BOT 〕━⬣*
  ┃👤 Creador : Diaz Bot
  ┃📱 Numero : +57 323 4231940
- ┃🤑 Adquirir Bot Propio : +51 926 933 818
+ ┃🤑 Adquirir Bot Propio : +57 323 423 1940
  ┃👻 Ig : ${md}
 *╰━━━━━━━━━━━━⬣*
 
