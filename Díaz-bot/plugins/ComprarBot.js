@@ -5,8 +5,8 @@ handler.command = /^(ComprarBot|Comprar|comprar|ComprarBot)$/i;
 export default handler;
 
 global.ComprarBot = `
-〔 𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗼𝘁 🐉 〕
+〔 𝗗𝗶𝗮𝘇 𝗕𝗼𝘁🥷🏻 〕
 
 HABLAR AL :
-wa.me/51926933818
+wa.me/573234231940
 `;
