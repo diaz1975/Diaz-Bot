@@ -39,7 +39,7 @@ const fkontak = {
 	"participant": "0@s.whatsapp.net"
 }
 
-await conn.sendFile(m.chat, img, 'gata.jpg', texto, fkontak)
+await conn.sendMessage(m.chat, {image: {url: "https://telegra.ph/file/b69c7ef6bc73fe3ae5431.png"}, caption: katashi, contextInfo: fakeChannel })
 //await conn.sendButton(m.chat, texto, wm, img, [['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪 ☘️', '/menu'] ], fkontak, m)  
 global.db.data.users[m.sender].lastcofre = new Date * 1
 }
