@@ -104,7 +104,7 @@ loadChatgptDB();
 
 /* ------------------------------------------------*/
 
-global.authFile = `Optimus`
+global.authFile = `DiazBotSessio `
 const {state, saveState, saveCreds} = await useMultiFileAuthState(global.authFile)
 const msgRetryCounterMap = (MessageRetryMap) => { };
 const msgRetryCounterCache = new NodeCache()
@@ -166,7 +166,7 @@ const connectionOptions = {
 logger: pino({ level: 'silent' }),
 printQRInTerminal: opcion == '1' ? true : methodCodeQR ? true : false,
 mobile: MethodMobile, 
-browser: opcion == '1' ? ['GataBot-MD', 'Edge', '2.0.0'] : methodCodeQR ? ['GataBot-MD', 'Edge', '2.0.0'] : ['Chrome (Linux)', '', ''],
+browser: opcion == '1' ? ['Diaz Bot', 'Edge', '2.0.0'] : methodCodeQR ? ['GataBot-MD', 'Edge', '2.0.0'] : ['Chrome (Linux)', '', ''],
 auth: {
 creds: state.creds,
 keys: makeCacheableSignalKeyStore(state.keys, Pino({ level: "fatal" }).child({ level: "fatal" })),
