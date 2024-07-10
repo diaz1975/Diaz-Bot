@@ -105,7 +105,6 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃💫➺ _${usedPrefix}gruposbot_
 ┃💫➺ _${usedPrefix}estado_
 ┃💫➺ _${usedPrefix}comprarbot_
-┃💫➺ _${usedPrefix}comprarbot1_
 ┃💫➺ _${usedPrefix}creador_
 ┃💫➺ _${usedPrefix}velocidad_
 ┃💫➺ _${usedPrefix}reglas_
@@ -117,25 +116,21 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃💻➺ _${usedPrefix}FemInterna4_
 ┃💻➺ _${usedPrefix}FemInterna6_
 ┃💻➺ _${usedPrefix}Masc4_
-┃💻➺ _${usedPrefix}Masc6_
-┃💻➺ _${usedPrefix}MascInterna4_
 ┃💻➺ _${usedPrefix}MascInterna6_
 ┃💻➺ _${usedPrefix}Mixto4_
 ┃💻➺ _${usedPrefix}Mixto6_
 ┃💻➺ _${usedPrefix}MixtoInterna4_
 ┃💻➺ _${usedPrefix}MixtoInterna6_
-┃💻➺ _${usedPrefix}ReglasApos_
 ┃💻➺ _${usedPrefix}Ficha / Formulario Pa Entrar A Team_
 ┃💻➺ _${usedPrefix}Vs4_
 ┃💻➺ _${usedPrefix}Vs6_
 ┃💻➺ _${usedPrefix}Vs8_
 ┃💻➺ _${usedPrefix}Vs12_
-┃💻➺ _${usedPrefix}Vs16_
 ┃💻➺ _${usedPrefix}Vs20_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 TREND TIK TOK 〕⬣*
-┃🐉➺ _${usedPrefix}Trendtiktok_
+┃🥷🏻➺ _${usedPrefix}Trendtiktok_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 SPAM Y EDITS 〕⬣*
