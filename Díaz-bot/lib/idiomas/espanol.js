@@ -1,13 +1,13 @@
 const lenguaje = () => { return 'es' } //Español
 
 //AVISOS DE MENSAJE
-const smsAvisoRG = () => { return `*🐉 RESULTADO 🐉*\n\n` } 
-const smsAvisoAG = () => { return `*🐉 ADVERTENCIA 🐉*\n\n` }
-const smsAvisoIIG = () => { return `*🐉 INFORMACION 🐉*\n\n` }
-const smsAvisoFG = () => { return `*🐉 ERROR 🐉*\n\n` }
-const smsAvisoMG = () => { return `*🐉 USALO BIEN 🐉*\n\n` }
-const smsAvisoEEG = () => { return `*🐉 REPORTE 🐉*\n\n` }
-const smsAvisoEG = () => { return `*🐉 EXITO 🐉*\n\n` }
+const smsAvisoRG = () => { return `*🥷🏻 RESULTADO 🥷🏻*\n\n` } 
+const smsAvisoAG = () => { return `*🥷🏻 ADVERTENCIA 🥷🏻*\n\n` }
+const smsAvisoIIG = () => { return `*🥷🏻 INFORMACION 🥷🏻*\n\n` }
+const smsAvisoFG = () => { return `*🥷🏻 ERROR 🥷🏻*\n\n` }
+const smsAvisoMG = () => { return `*🥷🏻 USALO BIEN 🥷🏻*\n\n` }
+const smsAvisoEEG = () => { return `*🥷🏻 REPORTE 🥷🏻*\n\n` }
+const smsAvisoEG = () => { return `*🥷🏻 EXITO 🥷🏻*\n\n` }
 
 //PARÁMETROS EN COMANDOS
 const smsRowner = () => { return `\`\`\`𝗟𝗮𝗺𝗲𝗻𝘁𝗼 𝗱𝗲𝗰𝗶𝗿𝘁𝗲 𝗾𝘂𝗲 𝘀𝗼𝗹𝗼 𝘆𝗼 𝗰𝗼𝗺𝗼 𝗰𝗿𝗲𝗮𝗱𝗼𝗿 𝗹𝗼 𝗽𝘂𝗲𝗱𝗼 𝘂𝘀𝗮𝗿\`\`\`` }//NUMERO DE BOT
@@ -79,8 +79,8 @@ const smsLista35 = () => { return `💎 MENÚ PARA PROPIETARIO(A) 💎`}
 //main.js
 const smsWelcome = () => { return `⪨────[ 𝗪 𝗘 𝗟 𝗖 𝗢 𝗠 𝗘 ]────⪩\n𝗚𝗥𝗨𝗣𝗢 ⪩ @subject\n𝗣𝗔𝗥𝗧𝗖𝗜𝗣𝗔𝗡𝗧𝗘 ⪩ @user\n⪨────[ 𝗪 𝗘 𝗟 𝗖 𝗢 𝗠 𝗘 ]────⪩`}
 const smsBye = () => { return '⪨────[ 𝗕 𝗬 𝗘 ]────⪩\n𝗣𝗔𝗥𝗧𝗜𝗖𝗜𝗣𝗔𝗡𝗧𝗘 ⪩ @user\n⪨────[ 𝗕 𝗬 𝗘 ]────⪩'}
-const smsSpromote = () => { return '𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗼𝘁 𝗟𝗲 𝗗𝗶𝗼 𝗘𝗹 𝗣𝗼𝗱𝗲𝗿 𝗗𝗲 𝗦𝗲𝗿 𝗔𝗱𝗺𝗶𝗻 𝗔 : @user '}
-const smsSdemote = () => { return '𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗼𝘁 𝗟𝗲 𝗤𝘂𝗶𝘁𝗼 𝗘𝗹 𝗣𝗼𝗱𝗲𝗿 𝗗𝗲 𝗦𝗲𝗿 𝗔𝗱𝗺𝗶𝗻 𝗔 : @user '}
+const smsSpromote = () => { return '𝗗𝗶𝗮𝘇 𝗕𝗼𝘁 𝗟𝗲 𝗗𝗶𝗼 𝗘𝗹 𝗣𝗼𝗱𝗲𝗿 𝗗𝗲 𝗦𝗲𝗿 𝗔𝗱𝗺𝗶𝗻 𝗔 : @user '}
+const smsSdemote = () => { return '𝗗𝗶𝗮𝘇 𝗕𝗼𝘁 𝗟𝗲 𝗤𝘂𝗶𝘁𝗼 𝗘𝗹 𝗣𝗼𝗱𝗲𝗿 𝗗𝗲 𝗦𝗲𝗿 𝗔𝗱𝗺𝗶𝗻 𝗔 : @user '}
 const smsSdesc = () => { return '*𝙇𝘼 𝙉𝙐𝙀𝙑𝘼 𝘿𝙀𝙎𝘾𝙍𝙄𝙋𝘾𝙄𝙊𝙉 𝘿𝙀𝙇 𝙂𝙍𝙐𝙋𝙊 𝙀𝙎:*\n\n@desc'}
 const smsSsubject = () => { return '*𝙀𝙇 𝙉𝙐𝙀𝙑𝙊 𝙉𝙊𝙈𝘽𝙍𝙀 𝘿𝙀𝙇 𝙂𝙍𝙐𝙋𝙊 𝙀𝙎:*\n\n@subject'}
 const smsSicon = () => { return '*𝙎𝙀 𝙃𝘼 𝘾𝘼𝙈𝘽𝙄𝘼𝘿𝙊 𝙇𝘼 𝙁𝙊𝙏𝙊 𝘿𝙀𝙇 𝙂𝙍𝙐𝙋𝙊!!*'}
@@ -108,7 +108,7 @@ const smsConexiondescon = (reason, connection) => { return `\n⚠️❗ RAZON DE
 const smsMainBot = () => { return "SE ACTUALIZÓ 'main.js' CON ÉXITO"}
 
 //_allantilink.js
-const smsTextoYT = () => { return '〔 𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗼𝘁 〕'} 
+const smsTextoYT = () => { return '〔 𝗗𝗶𝗮𝘇 𝗕𝗼𝘁 〕'} 
 const smsApagar = () => { return 'DESACTIVADO'} 
 const smsEncender = () => { return 'ACTIVADO'} 
 const smsEnlaceTik = () => { return `𝙎𝙀 𝘿𝙀𝙏𝙀𝘾𝙏𝙊 𝙐𝙉 𝙀𝙉𝙇𝘼𝘾𝙀 𝙋𝙍𝙊𝙃𝙄𝘽𝙄𝘿𝙊 𝘿𝙀 𝙏𝙄𝙆𝙏𝙊𝙆 𝙀𝙉 𝙀𝙎𝙏𝙀 𝙂𝙍𝙐𝙋𝙊\n\n𝙋𝙍𝙊𝘾𝙀𝘿𝙊 𝘼 𝙀𝙇𝙄𝙈𝙄𝙉𝘼𝙍𝙏𝙀`}
@@ -427,8 +427,8 @@ const smsLisG = () => { return '*✦ Link:*'}
 
 //ad
 const smsMalused = () => { return '⚡ *USAR EL COMANDO DE ESTA FORMA:*\n'}
-const smsMalused2 = () => { return `${lenguajeGB['smsAvisoMG']()}🐈 *DEBE DE USAR EL COMANDO COMO EN ESTE EJEMPLO:*\n`}
-const smsMalused3 = () => { return `${lenguajeGB['smsAvisoMG']()}🐈 *DEBE DE USAR EL COMANDO O RESPONDER AL MENSAJE DE ALGUIEN COMO EN ESTE EJEMPLO:*\n`}
+const smsMalused2 = () => { return `${lenguajeGB['smsAvisoMG']()}🥷🏻 *DEBE DE USAR EL COMANDO COMO EN ESTE EJEMPLO:*\n`}
+const smsMalused3 = () => { return `${lenguajeGB['smsAvisoMG']()}🥷🏻 *DEBE DE USAR EL COMANDO O RESPONDER AL MENSAJE DE ALGUIEN COMO EN ESTE EJEMPLO:*\n`}
 
 //gc-config_time.js
 const smsGrupoTime1 = () => { return '🔓 *_ABRIR GRUPO EN UNA HORA_*'}
@@ -523,7 +523,7 @@ const smsCont18PornP = () => { return `🌟 *CONTENIDO ❤️‍🔥 PREMIUM* �
 const smsCont18PornP2 = () => { return `CONTENIDO ❤️‍🔥 PREMIUM`} //texto  
 
 //propietario(a).js
-const smsJoin = (user) => { return `${packname}\n𝙀𝙎 𝙐𝙉 𝘽𝙊𝙏 𝘿𝙀 𝙒𝙃𝘼𝙏𝙎𝘼𝙋𝙋 𝙌𝙐𝙀 𝙏𝙀 𝘼𝙔𝙐𝘿𝘼𝙍𝘼 𝙍𝙀𝘼𝙇𝙄𝙕𝘼𝙍 𝘿𝙄𝙁𝙀𝙍𝙀𝙉𝙏𝙀𝙎 𝘼𝘾𝙏𝙄𝙑𝙄𝘿𝘼𝘿𝙀𝙎 🪄 𝘼𝙇 𝙋𝙍𝙄𝙑𝘼𝘿𝙊 𝙊 𝙂𝙍𝙐𝙋𝙊 𝙔 𝙏𝘼𝙈𝘽𝙄𝙀𝙉 𝙏𝙀 𝙑𝘼𝙎 𝘼 𝘿𝙄𝙑𝙀𝙍𝙏𝙄𝙍 🎈 𝘾𝙊𝙉 𝙎𝙐𝙎 𝙈𝙐𝙇𝙏𝙄𝙋𝙇𝙀𝙎 𝙁𝙐𝙉𝘾𝙄𝙊𝙉𝙀𝙎, 𝘿𝙄𝙎𝙁𝙍𝙐𝙏𝘼 𝘿𝙀 𝙊𝙋𝙏𝙄𝙈𝙐𝙎 𝘽𝙊𝙏!! 😸\n\n💖 𝙊𝙋𝙏𝙄𝙈𝙐𝙎 𝘽𝙊𝙏 𝙁𝙐𝙀 𝙄𝙉𝙑𝙄𝙏𝘼𝘿𝘼 𝙋𝙊𝙍:\n@${user}`}
+const smsJoin = (user) => { return `${packname}\n𝙀𝙎 𝙐𝙉 𝘽𝙊𝙏 𝘿𝙀 𝙒𝙃𝘼𝙏𝙎𝘼𝙋𝙋 𝙌𝙐𝙀 𝙏𝙀 𝘼𝙔𝙐𝘿𝘼𝙍𝘼 𝙍𝙀𝘼𝙇𝙄𝙕𝘼𝙍 𝘿𝙄𝙁𝙀𝙍𝙀𝙉𝙏𝙀𝙎 𝘼𝘾𝙏𝙄𝙑𝙄𝘿𝘼𝘿𝙀𝙎 🪄 𝘼𝙇 𝙋𝙍𝙄𝙑𝘼𝘿𝙊 𝙊 𝙂𝙍𝙐𝙋𝙊 𝙔 𝙏𝘼𝙈𝘽𝙄𝙀𝙉 𝙏𝙀 𝙑𝘼𝙎 𝘼 𝘿𝙄𝙑𝙀𝙍𝙏𝙄𝙍 🎈 𝘾𝙊𝙉 𝙎𝙐𝙎 𝙈𝙐𝙇𝙏𝙄𝙋𝙇𝙀𝙎 𝙁𝙐𝙉𝘾𝙄𝙊𝙉𝙀𝙎, 𝘿𝙄𝙎𝙁𝙍𝙐𝙏𝘼 𝘿𝙀 𝗗𝗶𝗮𝘇 𝗕𝗼𝘁!! 😸\n\n💖 𝗗𝗶𝗮𝘇 𝗕𝗼𝘁 𝙁𝙐𝙀 𝙄𝙉𝙑𝙄𝙏𝘼𝘿𝙊 𝙋𝙊𝙍:\n@${user}`}
 const smsJoin1 = (usedPrefix, command) => { return lenguajeGB['smsAvisoMG']() + `*INGRESE EL ENLACE DE UN GRUPO*\n*EJEMPLO:*\n*${usedPrefix + command}* ${nna}`}
 const smsJoin2 = () => { return lenguajeGB['smsAvisoEG']() + `${packname}\n*SE HA UNIDO AL GRUPO ✅*`}
 
