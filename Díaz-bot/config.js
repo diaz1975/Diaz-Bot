@@ -133,7 +133,7 @@ global.ths = "https://www.instagram.com/whoisdiax.d"
 global.paypal = 'https://www.instagram.com/whoisdiax.d'
 global.asistencia = 'https://chat.whatsapp.com/LHo0RmYd3pxAQzp24NYcTV' //Contacto
 
-global.nna = 'https://chat.whatsapp.com/LHo0RmYd3pxAQzp24NYcTV' // CANAL UPDATE
+global.nna = 'https://chat.whatsapp.com/BjLnTuDd7Fm4iRL3jUGL5d' // CANAL UPDATE
 global.nn2 = 'https://www.instagram.com/whoisdiax.d' // CANAL GataBot
 global.nna2 = 'https://www.instagram.com/whoisdiax.d' // Help
 global.nn = 'https://www.instagram.com/whoisdiax.d' // Grupo 1
