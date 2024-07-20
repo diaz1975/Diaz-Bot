@@ -1403,7 +1403,7 @@ mentionedJid:[user],
 "showAdAttribution": true,
 "renderLargerThumbnail": true,
 "thumbnail": apii.data, 
-"title": [wm, '𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗼𝘁 🐉 ' + gt + '', 'https://chat.whatsapp.com/LHo0RmYd3pxAQzp24NYcTV'].getRandom(),
+"title": [wm, '𝗗𝗶𝗮𝘇 𝗕𝗼𝘁 🥷🏻 ' + gt + '', 'https://chat.whatsapp.com/BjLnTuDd7Fm4iRL3jUGL5d'].getRandom(),
 "containsAutoReply": true,
 "mediaType": 1, 
 sourceUrl: [md, nna, nn2, yt, ig, paypal, fb].getRandom()}}}, { quoted: fkontak2 })
@@ -1492,7 +1492,7 @@ restrict: lenguajeGB['smsRestrict'](),
 }[type]
 //if (msg) return m.reply(msg)
 let tg = { quoted: m, userJid: conn.user.jid }
-let prep = generateWAMessageFromContent(m.chat, { extendedTextMessage: { text: msg, contextInfo: { externalAdReply: { title: lenguajeGB.smsAvisoAG().slice(0,-2), body: [wm, '𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗼𝘁 🐉 ' + gt + '', 'https://chat.whatsapp.com/LHo0RmYd3pxAQzp24NYcTV'].getRandom(), thumbnail: gataImg.getRandom(), sourceUrl: [md, nna, nn, nnn, yt, ig, paypal, fb].getRandom() }}}}, tg)
+let prep = generateWAMessageFromContent(m.chat, { extendedTextMessage: { text: msg, contextInfo: { externalAdReply: { title: lenguajeGB.smsAvisoAG().slice(0,-2), body: [wm, '𝗗𝗶𝗮𝘇 𝗕𝗼𝘁 🥷🏻 ' + gt + '', 'https://chat.whatsapp.com/BjLnTuDd7Fm4iRL3jUGL5d'].getRandom(), thumbnail: gataImg.getRandom(), sourceUrl: [md, nna, nn, nnn, yt, ig, paypal, fb].getRandom() }}}}, tg)
 if (msg) return conn.relayMessage(m.chat, prep.message, { messageId: prep.key.id })
 }
 
