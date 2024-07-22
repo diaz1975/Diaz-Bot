@@ -5,7 +5,7 @@ const cat = `
 〔 𝗗𝗶𝗮𝘇 𝗕𝗼𝘁🥷🏻 〕
 
 *Desarrollador : +57 323 423 1940*
-*Nombre : Yallico J-j*
+*Nombre : Diaz Mod*
 
 `
 
